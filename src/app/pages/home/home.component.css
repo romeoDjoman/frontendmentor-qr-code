@@ -1,0 +1,20 @@
+.myBgColor{
+    background-color: hsl(0, 0%, 100%);
+}
+
+span {
+    color: hsl(216, 15%, 48%)
+}
+
+h1 {
+    color: hsl(218, 44%, 22%)
+}
+
+
+
+@media (max-width: 639px) {
+    .custom-rounded {
+      border-radius: 1.5vw;
+    }
+  }
+  
