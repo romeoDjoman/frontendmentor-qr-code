@@ -19,7 +19,9 @@ Ceci est ma solution au défi du composant QR code proposé par Frontend Mentor.
 
 ### Capture d'écran
 
-![Capture d'écran du composant QR code](./screenshot.png)
+![image](https://github.com/user-attachments/assets/b976a7e4-75f3-4fe2-9912-3d5e7af85c7a)
+![image](https://github.com/user-attachments/assets/a06e5abd-83e9-44eb-80b3-16312c62ef17)
+
 
 ### Liens
 
