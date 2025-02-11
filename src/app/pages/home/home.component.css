@@ -10,7 +10,14 @@ h1 {
     color: hsl(218, 44%, 22%)
 }
 
-
+.img {
+    width: 260px;
+    height: 250px;
+    background-image: url("../../../assets/images/image-qr-code.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 12px;
+}
 
 @media (max-width: 639px) {
     .custom-rounded {
