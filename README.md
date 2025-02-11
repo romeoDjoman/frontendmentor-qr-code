@@ -1,59 +1,55 @@
-# QrCodeApp
+# Frontend Mentor - Solution du composant QR code
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+Ceci est ma solution au défi du composant QR code proposé par Frontend Mentor. Ce challenge marque le début d’une série de défis que je vais relever sur Frontend Mentor afin d’améliorer mes compétences en intégration web et en développement frontend à travers des projets concrets. 
 
-## Development server
+## Table des matières
 
-To start a local development server, run:
+- [Aperçu](#aperçu)
+  - [Capture d'écran](#capture-décran)
+  - [Liens](#liens)
+- [Mon processus](#mon-processus)
+  - [Technologies utilisées](#technologies-utilisées)
+  - [Ce que j'ai appris](#ce-que-jai-appris)
+  - [Développement continu](#développement-continu)
+  - [Ressources utiles](#ressources-utiles)
+- [Auteur](#auteur)
+- [Remerciements](#remerciements)
 
-```bash
-ng serve
-```
+## Aperçu
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### Capture d'écran
 
-## Code scaffolding
+![Capture d'écran du composant QR code](./screenshot.png)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+### Liens
 
-```bash
-ng generate component component-name
-```
+- URL de la solution : [https://github.com/romeoDjoman/frontendmentor-qr-code](https://github.com/romeoDjoman/frontendmentor-qr-code)
+- URL du site en ligne : [https://frontendmentor-qr-code-green.vercel.app](https://frontendmentor-qr-code-green.vercel.app)
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Mon processus
 
-```bash
-ng generate --help
-```
+### Technologies utilisées
 
-## Building
+- Balises sémantiques HTML5
+- Propriétés personnalisées CSS
+- [Angular](https://angular.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-To build the project run:
+### Ce que j'ai appris
 
-```bash
-ng build
-```
+Ce projet un projet test de la communauté Frontend Mentor pour vérifier mes compétences à relever des défis :
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+- Utilisant des balises HTML sémantiques pour une meilleure accessibilité.
+- Appliquant des propriétés CSS personnalisées pour une maintenance simplifiée du style.
+- Mettant en œuvre Flexbox pour une disposition flexible et réactive.
+- Intégrant Tailwind CSS avec Angular pour une conception rapide et efficace.
 
-## Running unit tests
+### Ressources utiles
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+- [Documentation officielle d'Angular](https://angular.io/docs) : Pour comprendre les meilleures pratiques de développement avec Angular.
+- [Guide de démarrage de Tailwind CSS](https://tailwindcss.com/docs) : Pour une introduction complète à l'utilisation de Tailwind CSS.
 
-```bash
-ng test
-```
+## Auteur
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Site Web : [romeoDjoman](https://github.com/romeoDjoman)
+- Frontend Mentor : [@romeoDjoman](https://www.frontendmentor.io/profile/romeoDjoman)
