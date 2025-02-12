@@ -2,6 +2,10 @@
     background-color: hsl(0, 0%, 100%);
 }
 
+.myStyle {
+    width: 300px;
+}
+
 span {
     color: hsl(216, 15%, 48%)
 }
